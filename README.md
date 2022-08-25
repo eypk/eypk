@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi 👋
 
+It is time. 
 <!--
 **eypk/eypk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Contact: [LinkedIn](https://www.linkedin.com/in/eypk/)
+
+For Contact: Check out my profile on [LinkedIn](https://www.linkedin.com/in/eypk/)
